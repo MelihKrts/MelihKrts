@@ -5,6 +5,6 @@ Hi I'm Melih. Web design / Front End area I'm trying to specialize. I have knowl
 # Melih Krts Github Profiles - Graphics Info
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MelihKrts&show_icons=true&theme=gradient) 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihKrts&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihKrts&layout=compact) 
 
 
