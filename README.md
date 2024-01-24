@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihkrts&label=Profile%20views&color=0e75b6&style=flat" alt="melihkrts" /> </p>
 
-- 🔭 I’m currently working on [30 Days of React Solution](https://github.com/MelihKrts/30-Days-Of-React-Solution)
+- 🔭 I’m currently working on [30 Days of Python Solution](https://github.com/MelihKrts/30-Days-Of-Python)
 
 - 🌱 I’m currently learning **React**
 
