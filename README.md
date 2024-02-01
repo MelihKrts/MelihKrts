@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [30 Days of Python Solution](https://github.com/MelihKrts/30-Days-Of-Python)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MelihKrts](https://github.com/MelihKrts)
 
